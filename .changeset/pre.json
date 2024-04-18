@@ -47,5 +47,37 @@
     "@solana/webcrypto-ed25519-polyfill": "2.0.0-preview.2",
     "@solana/ws-impl": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "brave-chicken-own",
+    "breezy-items-reflect",
+    "calm-crabs-tease",
+    "chatty-flies-end",
+    "famous-buttons-switch",
+    "gorgeous-gorillas-sniff",
+    "green-experts-hang",
+    "heavy-students-relax",
+    "honest-rivers-deny",
+    "late-mangos-doubt",
+    "late-planets-breathe",
+    "little-berries-applaud",
+    "loud-otters-pull",
+    "lovely-mice-promise",
+    "mean-vans-behave",
+    "metal-radios-switch",
+    "nervous-deers-roll",
+    "odd-beds-punch",
+    "pretty-rocks-argue",
+    "shiny-birds-pay",
+    "short-toes-perform",
+    "silly-months-happen",
+    "strong-pandas-marry",
+    "tender-turtles-bake",
+    "thick-masks-lie",
+    "thick-radios-search",
+    "three-guests-study",
+    "tricky-fishes-pull",
+    "violet-brooms-report",
+    "wild-lobsters-kick",
+    "witty-camels-remember"
+  ]
 }
